@@ -26,9 +26,9 @@ compartilhar meus projetos ao longo dessa jornada.
 
 <img 
     align="left" 
-    alt="SQL" 
-    title="SQL"
+    alt="html" 
+    title="html"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg"      
 />
