@@ -82,23 +82,12 @@ compartilhar meus projetos ao longo dessa jornada.
     alt="instagram logo"/>
 </div>
 
-### Estatisticas
+### 📊 Estatisticas
 
 <div align="left">
-<html lang="pt_BR">
-<img 
-    src="https://github-readme-stats.vercel.app/api?username=joaovanalista&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" 
-    height="150" 
-    alt="stats graph"  
-/>
-
-<img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=joaov-analista&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" 
-    height="150" 
-    alt="languages graph"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=joaov-analista&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaov-analista&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="120" alt="languages graph"  />
 </div>
-</html>
 
 ###
 
