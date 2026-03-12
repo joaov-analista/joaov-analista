@@ -3,7 +3,6 @@
 Me chamo João Vítor, tenho 24 anos e sou de Recife-PE. Estou começando minha carreira como Analista de Dados e criei esse Git para
 compartilhar meus projetos ao longo dessa jornada.
 
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -40,8 +39,70 @@ compartilhar meus projetos ao longo dessa jornada.
     alt="mysql" 
     width="30" 
     height="40"
-    style="padding-right: 10px;"/> 
-    
+    style="padding-right: 10px;"
+/>
+
+<img 
+    title="VS Code"
+    align="left"
+    width="30" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
+    height="40" 
+    alt="vscode logo" 
+/>
+
+<img 
+    title="Kaggle"
+    align="left"
+    width="30"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" 
+    height="40" 
+    alt="kaggle logo" 
+/>
 
 
+### Redes Sociais
+
+<div>
+<a href="www.linkedin.com/in/joãovitoranalista" target="_blank">
+<img 
+    title="Linkedin"
+    align="left"
+    src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"         width="30" 
+    height="40" 
+    alt="linkedin logo"/>
+
+
+<a href="https://www.instagram.com/_vtor.joao/" target="_blank">
+<img 
+    title="Instagram"
+    align="left"
+    src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"        width="30" 
+    height="40" 
+    alt="instagram logo"/>
+</div>
+
+### Estatisticas
+
+<div align="left">
+<html lang="pt_BR">
+<img 
+    src="https://github-readme-stats.vercel.app/api?username=joaovanalista&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" 
+    height="150" 
+    alt="stats graph"  
+/>
+
+<img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=joaov-analista&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" 
+    height="150" 
+    alt="languages graph"
+/>
+</div>
+</html>
+
+###
+
+<img src="https://raw.githubusercontent.com/joaov-analista/joaov-analista/output/snake.svg" alt="Snake animation" />
+
+###
 
