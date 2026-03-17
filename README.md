@@ -62,7 +62,7 @@ compartilhar meus projetos ao longo dessa jornada.
 ###  📱 Redes Sociais
 
 <div>
-<a href="www.linkedin.com/in/joãovitoranalista" target="_blank">
+<a href="www.linkedin.com/in/joãovitoranalista/" target="_blank">
 <img 
     title="Linkedin"
     align="left"
